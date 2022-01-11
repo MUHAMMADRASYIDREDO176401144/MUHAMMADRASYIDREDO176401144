@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**MUHAMMADRASYIDREDO176401144/MUHAMMADRASYIDREDO176401144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MUHAMMADRASYIDREDO176301144/MUHAMMADRASYIDREDO176301144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
